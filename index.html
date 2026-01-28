@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Heartopia Explorer | Guía Cozy</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Fredoka:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="home-mode">
+    <div class="main-container">
+        <!-- navbar: Single component shared across states -->
+        <header class="navbar">
+            <h1 class="title" id="site-title">Heartopia</h1>
+            <nav class="nav-links hidden" id="main-nav">
+                <button class="nav-btn" id="home-nav-btn">🏠 Home</button>
+                <button class="nav-btn" data-category="recetas">Recetas</button>
+                <button class="nav-btn" data-category="insectos">Insectos</button>
+                <button class="nav-btn" data-category="peces">Peces</button>
+                <button class="nav-btn" data-category="cultivos">Cultivos</button>
+                <button class="nav-btn" data-category="flores">Flores</button>
+            </nav>
+        </header>
+
+        <!-- Home Section: Centered on screen -->
+        <section id="home-view" class="active">
+            <div class="home-grid">
+                <div class="category-card" data-category="recetas">
+                    <span class="category-emoji">🥘</span>
+                    <h3 class="category-name">Recetas</h3>
+                </div>
+                <div class="category-card" data-category="insectos">
+                    <span class="category-emoji">🦋</span>
+                    <h3 class="category-name">Insectos</h3>
+                </div>
+                <div class="category-card" data-category="peces">
+                    <span class="category-emoji">🐟</span>
+                    <h3 class="category-name">Peces</h3>
+                </div>
+                <div class="category-card" data-category="cultivos">
+                    <span class="category-emoji">🌽</span>
+                    <h3 class="category-name">Cultivos</h3>
+                </div>
+                <div class="category-card" data-category="flores">
+                    <span class="category-emoji">🌸</span>
+                    <h3 class="category-name">Flores</h3>
+                </div>
+            </div>
+        </section>
+
+        <!-- Data Grid Section -->
+        <main id="card-grid" class="card-grid hidden"></main>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <a href="https://discord.gg/YOUR_INVITE_HERE" target="_blank" class="discord-btn">
+                    <i class="fab fa-discord"></i> Vincular Discord
+                </a>
+            </div>
+        </footer>
+    </div>
+
+    <!-- Scripts -->
+    <!-- Data is now loaded dynamically via fetch in app.js -->
+    <script src="js/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,402 @@
+[
+    {
+        "Level": "Nv 13",
+        "Name": "Cirujano Azul",
+        "Location": "Mar Viejo",
+        "Shadow": "Mediana",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "0:00 - 6:00, 12:00 - 24:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 13",
+        "Name": "Pez León",
+        "Location": "Mar Ballena",
+        "Shadow": "Mediana",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "0:00 - 12:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 14",
+        "Name": "Damisela Azul",
+        "Location": "Mar Céfiro",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "12:00 - 24:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 14",
+        "Name": "Pez Loro",
+        "Location": "Mar del Este",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "6:00 - 24:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 10",
+        "Name": "Siluro",
+        "Location": "Lago Pradera",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 10",
+        "Name": "Pez Sol",
+        "Location": "Lago Termal",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🐡"
+    },
+    {
+        "Level": "Nv 10",
+        "Name": "Salvelino",
+        "Location": "Lago del Bosque",
+        "Shadow": "Mediana",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "12:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 10",
+        "Name": "Pez Espada",
+        "Location": "Mar Ballena",
+        "Shadow": "Grande",
+        "Weather": "Arcoíris",
+        "Time": "6:00 - 18:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 11",
+        "Name": "Goldfish Cabeza de León",
+        "Location": "Lago Termal",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🐡",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 11",
+        "Name": "Arowana",
+        "Location": "Lago Pradera",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris",
+        "Time": "0:00 - 12:00, 18:00 - 24:00",
+        "Image": "🐟",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 11",
+        "Name": "Damisela",
+        "Location": "Mar Céfiro",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "12:00 - 24:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 11",
+        "Name": "Tiburón Ballena",
+        "Location": "Alta Mar",
+        "Shadow": "Destello Dorado",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 12:00, 18:00 - 24:00",
+        "Image": "🦈",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 12",
+        "Name": "Pez Betta",
+        "Location": "Lago del Bosque",
+        "Shadow": "Pequeña",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "12:00 - 24:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 12",
+        "Name": "Pez Ángel",
+        "Location": "Lago Suburbano",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🐠",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 12",
+        "Name": "Medusa Luna",
+        "Location": "Alta Mar",
+        "Shadow": "Destello Dorado",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "0:00 - 6:00, 12:00 - 24:00",
+        "Image": "🪼",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 12",
+        "Name": "Tortuga Verde",
+        "Location": "Mar Ballena",
+        "Shadow": "Grande",
+        "Weather": "Arcoíris",
+        "Time": "12:00 - 24:00",
+        "Image": "🐢",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 12",
+        "Name": "Locha",
+        "Location": "Mar Viejo",
+        "Shadow": "Grande",
+        "Weather": "Arcoíris",
+        "Time": "6:00 - 18:00",
+        "Image": "🐟",
+        "Unconfirmed": true
+    },
+    {
+        "Level": "Nv 7",
+        "Name": "Besugo",
+        "Location": "Mar Céfiro",
+        "Shadow": "Mediana",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 7",
+        "Name": "Anguila Europea",
+        "Location": "Mar Viejo",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris",
+        "Time": "6:00 - 24:00",
+        "Image": "🐠"
+    },
+    {
+        "Level": "Nv 8",
+        "Name": "Pez Dorado",
+        "Location": "Lago Pradera",
+        "Shadow": "Pequeña",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "6:00 - 24:00",
+        "Image": "🐡"
+    },
+    {
+        "Level": "Nv 8",
+        "Name": "Cangrejo Real Dorado",
+        "Location": "Alta Mar",
+        "Shadow": "Destello Dorado",
+        "Weather": "Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🦀"
+    },
+    {
+        "Level": "Nv 8",
+        "Name": "Umbra",
+        "Location": "Lago Suburbano",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 12:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 8",
+        "Name": "Cangrejo Real",
+        "Location": "Mar Ballena",
+        "Shadow": "Grande",
+        "Weather": "Arcoíris",
+        "Time": "6:00 - 24:00",
+        "Image": "🦀"
+    },
+    {
+        "Level": "Nv 8",
+        "Name": "Eglefino",
+        "Location": "Mar del Este",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 6:00, 12:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 9",
+        "Name": "Huchón",
+        "Location": "Río Bosque Gigante",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris",
+        "Time": "0:00 - 6:00, 12:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 9",
+        "Name": "Lucio Norteño",
+        "Location": "Lago Suburbano",
+        "Shadow": "Mediana",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 9",
+        "Name": "Pez Calabaza",
+        "Location": "Lago Termal",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "6:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 9",
+        "Name": "Atún Rojo",
+        "Location": "Mar Céfiro",
+        "Shadow": "Grande",
+        "Weather": "Arcoíris",
+        "Time": "6:00 - 18:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 10",
+        "Name": "Tiburón Martillo",
+        "Location": "Mar Viejo",
+        "Shadow": "Grande",
+        "Weather": "Arcoíris",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🦈"
+    },
+    {
+        "Level": "Nv 10",
+        "Name": "Tiburón Mako",
+        "Location": "Alta Mar",
+        "Shadow": "Destello Dorado",
+        "Weather": "Arcoíris",
+        "Time": "6:00 - 18:00",
+        "Image": "🦈"
+    },
+    {
+        "Level": "Nv 3",
+        "Name": "Mejillón",
+        "Location": "Lago Suburbano",
+        "Shadow": "Pequeña",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🦪"
+    },
+    {
+        "Level": "Nv 3",
+        "Name": "Renacuajo",
+        "Location": "Lago Termal",
+        "Shadow": "Pequeña",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🐸"
+    },
+    {
+        "Level": "Nv 4",
+        "Name": "Carpa Común",
+        "Location": "Río Rosado",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "12:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 4",
+        "Name": "Lubina Boca Grande",
+        "Location": "Lago del Bosque",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "Todo el día",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 4",
+        "Name": "Koi Mariposa",
+        "Location": "Lago Pradera",
+        "Shadow": "Grande",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🐠"
+    },
+    {
+        "Level": "Nv 5",
+        "Name": "Trucha",
+        "Location": "Lago Pradera",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 6:00, 18:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 5",
+        "Name": "Caballa",
+        "Location": "Mar Ballena",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "12:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 6",
+        "Name": "Salmón Keta",
+        "Location": "Río Tranquilo",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 6",
+        "Name": "Mejillón Perla Gigante",
+        "Location": "Lago del Bosque",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🦪"
+    },
+    {
+        "Level": "Nv 6",
+        "Name": "Bejel",
+        "Location": "Mar del Este",
+        "Shadow": "Mediana",
+        "Weather": "Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 7",
+        "Name": "Espinoso",
+        "Location": "Río Somero",
+        "Shadow": "Pequeña",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "Todo el día",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 7",
+        "Name": "Fartet",
+        "Location": "Lago Suburbano",
+        "Shadow": "Pequeña",
+        "Weather": "Arcoíris, Soleado",
+        "Time": "0:00 - 6:00, 12:00 - 24:00",
+        "Image": "🐟"
+    },
+    {
+        "Level": "Nv 7",
+        "Name": "Cavilat",
+        "Location": "Lago Termal",
+        "Shadow": "Pequeña",
+        "Weather": "Lluvia, Nieve, Arcoíris",
+        "Time": "6:00 - 24:00",
+        "Image": "🐟"
+    }
+]
