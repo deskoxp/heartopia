@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         let currentPage = 1;
         const itemsPerPage = 10;
-        let viewMode = 'table'; // 'table' or 'cards'
+        let viewMode = 'cards'; // 'table' or 'cards'
 
         // Cache filtered items to avoid re-filtering on pagination
         let currentFilteredItems = [...items];
@@ -239,7 +239,7 @@ document.addEventListener('DOMContentLoaded', () => {
         // Toggle Button
         const toggleBtn = document.createElement('button');
         toggleBtn.className = 'toggle-view-btn';
-        toggleBtn.innerHTML = '<i class="fas fa-th-large"></i> Ver como Tarjetas';
+        toggleBtn.innerHTML = '<i class="fas fa-list"></i> Ver como Tabla';
         toggleBtn.onclick = () => {
             viewMode = viewMode === 'table' ? 'cards' : 'table';
             toggleBtn.innerHTML = viewMode === 'table' ? '<i class="fas fa-th-large"></i> Ver como Tarjetas' : '<i class="fas fa-list"></i> Ver como Tabla';
